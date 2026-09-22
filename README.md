@@ -10,8 +10,8 @@ Time spent: **15** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Most recently fetched data is stored locally in a database.
-- [ ] If user turns on airplane mode and closes and reopens app, old data from the database should be loaded.
+- [X] Most recently fetched data is stored locally in a database.
+- [X] If user turns on airplane mode and closes and reopens app, old data from the database should be loaded.
 
  
 
